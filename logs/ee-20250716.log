@@ -1,0 +1,4 @@
+2025-07-16 13:54:27,149 INFO 51352 [lifecycle] ready
+2025-07-16 13:54:27,153 INFO 51352 [lifecycle] electron-app-ready
+2025-07-16 13:54:27,788 INFO 51352 [lifecycle] window-ready
+2025-07-16 13:54:27,793 INFO 51352 [preload] load 1
